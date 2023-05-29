@@ -1,0 +1,1 @@
+//2nd homepage-displays the background image and the navbar. clicking on each tab in the navbar will be redirected to a new page.
